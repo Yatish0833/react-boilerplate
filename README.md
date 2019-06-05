@@ -1,4 +1,5 @@
 # React-Boilerplate
 
-## Setup npm run build
-## npm start
+## Setup
+npm run build
+npm start
